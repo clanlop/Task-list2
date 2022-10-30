@@ -18,7 +18,7 @@ export const TASKS: Task[]=[
 
     {
       id:3,
-      text:"Investigar sobre Boostrap",
+      text:"Investigar sobre Bootstrap",
       day:"Octubre 25 a las 17:00hs",
       reminder:false
 
@@ -30,6 +30,6 @@ export const TASKS: Task[]=[
         day:"Octubre 25 a las 20:00hs",
         reminder:false
   
-    }
+    },
 
 ]
